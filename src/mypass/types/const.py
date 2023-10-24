@@ -1,0 +1,2 @@
+IDENTITY_UID = 'uid'
+IDENTITY_USER = 'user'

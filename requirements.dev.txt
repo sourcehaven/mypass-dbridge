@@ -1,0 +1,14 @@
+-r requirements.txt
+
+# test and code inspection tools
+flake8
+
+# keeping project nice and clean (sometimes migrations fail due to leftover __pycache__
+pyclean
+
+# async http client for testing
+airoreq
+
+# jupyter lab - notebooks
+jupyterlab
+jedi-language-server
